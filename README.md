@@ -143,3 +143,4 @@ What’s Next
 For my first project, I’ll be creating a mini game using Scratch, as part of Week 0. After that, I’m excited to move ahead and see what Week 1 brings. I’ll decide what to build based on what I learn there.
 
 This is just the beginning of my journey—but I’m here to stay. I want to contribute as much as I can to help AI walk on its own and become better with time.
+![CoverImage](https://raw.githubusercontent.com/parthsainiAI25/My-cs-journey/refs/heads/main/cover.png.webp)
